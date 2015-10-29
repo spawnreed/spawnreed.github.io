@@ -1,3 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
 
@@ -27,12 +30,13 @@ text-decoration: none;
 }
 
 #login{
-
+	font-family: 'Open Sans', sans-serif;
 	padding-right:15em;
 	padding-left:1em;
 }
 
 #signup{
+	font-family: 'Open Sans', sans-serif;
     color: white;
 	background-color: #F57C00;
 	border:.1em;
@@ -46,6 +50,7 @@ text-decoration: none;
 }
 
 #logo{
+	font-family: 'Raleway', sans-serif;
 	position: absolute;
 	left:0em;
 	top:0em;
@@ -80,6 +85,8 @@ text-decoration: none;
 
 #value {
 
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 5px;
 	font-size: 2em;
 	color:#E0E0E0;
 	padding-top: 5.6em;
@@ -90,6 +97,7 @@ text-decoration: none;
 }
 
 #start {
+	font-family: 'Raleway', sans-serif;
 	font-size: 1.2em;
 	color: #FB8C00;
 	border:.1em solid #FB8C00;
