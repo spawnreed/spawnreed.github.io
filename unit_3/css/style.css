@@ -7,38 +7,99 @@ body {
 
 }
 
-#title {
+a {
 
-	text-align: center;
-	position: relative;
-	top: 6em;
-	left: 3.5em;
+color: #616161
+;
+text-decoration: none;
 
 }
 
-#slogan {
+#nav{
+	
 
-	text-align: center;
-	position: relative;
-	top: 9em;
-	left: 5em;
+	height:4em;
+	background-color: white;
+	background-size: cover;
+	padding-top:1.5em;
+	text-align: right;
+	box-shadow:.1em .1em .3em #888888;
+}
+
+#login{
+
+	padding-right:15em;
+	padding-left:1em;
+}
+
+#signup{
+    color: white;
+	background-color: #F57C00;
+	border:.1em;
+	margin:5px;
+	padding-top:.6em;
+	padding-bottom:.6em;
+	padding-left:2em;
+	padding-right:2em;
+	box-shadow:.1em .1em .2em #888888;
+	
+}
+
+#logo{
+	position: absolute;
+	left:0em;
+	top:0em;
+	bottom:40.9em;
+    color: white;
+	background-color: #F57C00;
+	padding-top:1.5em;
+	padding-bottom:1em;
+	padding-left:1em;
+	padding-right:1em;
+	box-shadow:.1em .1em .1em #888888;
+	
 }
 #banner {
-	background:url(../images/starfish.jpg);
+	background:url(../images/sstarfish.jpg);
 	background-size:cover;
 	background-repeat:no-repeat;
 	background-position: static;
 	padding: 5%;
-	height:50vh;
-	
-
+	height:85vh;
 	
 }
 
 #titlepic {
 
-position: relative;
-left: 10em;
-
+	float: left;
+	padding-top:1em;
+	padding-bottom: 5em;
+	padding-left: 3em;
 
 }
+
+#value {
+
+	font-size: 2em;
+	color:#E0E0E0;
+	padding-top: 5.6em;
+	padding-left: 15em;
+	padding-right: 1em;
+	padding-bottom: 1em;
+
+}
+
+#start {
+	font-size: 1.2em;
+	color: #FB8C00;
+	border:.1em solid #FB8C00;
+	margin:5px;
+	padding-top:.6em;
+	padding-bottom:.6em;
+	padding-left:2em;
+	padding-right:2em;
+}
+	
+	font-size: 
+
+
