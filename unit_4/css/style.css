@@ -49,21 +49,7 @@ text-decoration: none;
 	
 }
 
-#logo{
-	font-family: 'Raleway', sans-serif;
-	position: absolute;
-	left:0em;
-	top:0em;
-	bottom:40.9em;
-    color: white;
-	background-color: #F57C00;
-	padding-top:1.5em;
-	padding-bottom:1em;
-	padding-left:1em;
-	padding-right:1em;
-	box-shadow:.1em .1em .1em #888888;
-	
-}
+
 #banner {
 	background:url(../images/sstarfish.jpg);
 	background-size:cover;
@@ -77,9 +63,9 @@ text-decoration: none;
 #titlepic {
 
 	float: left;
-	padding-top:1em;
+	padding-top:2em;
 	padding-bottom: 5em;
-	padding-left: 3em;
+	padding-left: 8em;
 
 }
 
