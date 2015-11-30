@@ -99,8 +99,84 @@ text-decoration: none;
 	padding-right:2em;
 }
 
+#grid {
+	font-family: 'helvetica';
+	color: #424242;
+	padding-top: 35px;
+}
 
+#everest {
+
+	width:20em;
+	height:20em;
+	border:.1em solid gray;
+	margin:3em .1em .1em 1.5em;
+	background:url(../images/everest.jpg);
+	float: left;
+}
+
+#rica {
+
+	width:20em;
+	height:12em;
+	border:.1em solid gray;
+	margin:3em .1em 0em 1.5em;
+	background:url(../images/rica.jpg);
+	float: left;
+
+}
+
+#liva {
+
+	width:20em;
+	height:20em;
+	border:.1em solid gray;
+	margin:3em .1em 3em 1.5em;
+	background:url(../images/everest.jpg);
+	float: left;
+}
+
+#iceland {
+
+	width:20em;
+	height:20em;
+	border:.1em solid gray;
+	margin:0em .1em 3em 1.5em;
+	background:url(../images/everest.jpg);
+	float: left;
+}
+
+#ukraine {
+
+	width:20em;
+	height:12em;
+	border:.1em solid gray;
+	margin:0em .1em 3em 1.5em;
+	background:url(../images/rica.jpg);
+	float: left;
+
+}
+
+#geyser {
+
+	width:20em;
+	height:20em;
+	border:.1em solid gray;
+	margin:0em .1em 3em 1.5em;
+	background:url(../images/everest.jpg);
+	float: left;
+}
+
+#title {
+	color:white;
+	padding-top:6em;
+
+}
 	
+#title2 {
+	color:white;
+	padding-top:3.5em;
 
+}
 
 
