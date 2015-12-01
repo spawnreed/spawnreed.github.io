@@ -1,0 +1,213 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+
+	color: #222;
+	font-family:helvetica, arial, sans-serif;
+	font-size:16px;
+
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+a {
+
+color: #616161;
+text-decoration: none;
+
+}
+
+ #start:hover {
+
+	color: white;
+	background-color: #F57C00;
+}
+
+#nav{
+	
+
+	height:4em;
+	background-color: white;
+	background-size: cover;
+	padding-top:1.5em;
+	text-align: right;
+	box-shadow:.1em .1em .3em #888888;
+}
+
+#login{
+	font-family: 'Open Sans', sans-serif;
+	padding-right:15em;
+	padding-left:1em;
+}
+
+#signup{
+	font-family: 'Open Sans', sans-serif;
+    color: white;
+	background-color: #F57C00;
+	border:.1em;
+	margin:5px;
+	padding-top:.6em;
+	padding-bottom:.6em;
+	padding-left:2em;
+	padding-right:2em;
+	box-shadow:.1em .1em .2em #888888;
+	
+}
+
+
+#banner {
+	background:url(../images/sstarfish.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position: static;
+	padding: 5%;
+	height:85vh;
+	
+}
+
+#titlepic {
+
+	float: left;
+	padding-top:2em;
+	padding-bottom: 5em;
+	padding-left: 8em;
+
+}
+
+#value {
+
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 5px;
+	font-size: 2.2em;
+	color:#E0E0E0;
+	padding-top: 5.0em;
+	padding-left: 15em;
+	padding-right: 1em;
+	padding-bottom: 1em;
+
+}
+
+#start {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.2em;
+	color: #FB8C00;
+	border:.1em solid #FB8C00;
+	margin:5px;
+	padding-top:.6em;
+	padding-bottom:.6em;
+	padding-left:2em;
+	padding-right:2em;
+}
+
+#grid {
+	font-family: 'helvetica';
+	color: #424242;
+	padding-top: 35px;
+}
+
+#everest {
+
+	width:20em;
+	height:20em;
+	border:.1em solid gray;
+	margin:3em .1em .1em 1.5em;
+	background:url(../images/everest.jpg);
+	float: left;
+}
+
+#rica {
+
+	width:20em;
+	height:12em;
+	border:.1em solid gray;
+	margin:3em .1em 0em 1.5em;
+	background:url(../images/rica.jpg);
+	float: left;
+
+}
+
+#liva {
+
+	width:20em;
+	height:20em;
+	border:.1em solid gray;
+	margin:3em .1em 3em 1.5em;
+	background:url(../images/everest.jpg);
+	float: left;
+}
+
+#iceland {
+
+	width:20em;
+	height:20em;
+	border:.1em solid gray;
+	margin:0em .1em 3em 1.5em;
+	background:url(../images/everest.jpg);
+	float: left;
+}
+
+#ukraine {
+
+	width:20em;
+	height:12em;
+	border:.1em solid gray;
+	margin:0em .1em 3em 1.5em;
+	background:url(../images/rica.jpg);
+	float: left;
+
+}
+
+#geyser {
+
+	width:20em;
+	height:20em;
+	border:.1em solid gray;
+	margin:0em .1em 3em 1.5em;
+	background:url(../images/everest.jpg);
+	float: left;
+}
+
+#title {
+	color:white;
+	padding-top:6em;
+
+}
+	
+#title2 {
+	color:white;
+	padding-top:3.5em;
+
+}
+
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px; 
+    float: right;   
+    width: 62%;
+}
+
+
